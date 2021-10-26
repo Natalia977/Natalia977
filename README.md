@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Natalia 👩‍💻!
+
+FULL STACK DEVELOPER | LICENSED IN INFORMATION SYSTEMS
 
 <!--
 **Natalia977/Natalia977** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
