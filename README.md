@@ -33,9 +33,11 @@
 DOGGY FANS!
 
 <p>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/home.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/catalogo.png"></a>
-  <a><img src="https://github.com/WanCirone/wancirone/blob/main/images/petStore/tablaordenes.png"></a>
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_landing.PNG"></a>
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_allbreeds.PNG"></a>
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_search.PNG"></a>
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_create.PNG"></a>
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_about.PNG"></a>
 </p>
 
 ## :paperclip: How to reach me:
