@@ -3,9 +3,6 @@
 
 # FULL STACK DEVELOPER | LICENSED IN INFORMATION SYSTEMS
 
-<p align="left">
-  <img height="200" src="./dog.png" />
-</p>
 
 ## :star: Languages and Tools:
 
