@@ -1,7 +1,6 @@
 ### Hi there, I'm Natalia 👩‍💻!
 
 <p align='left'>
-    <p>Hi there, I'm Natalia</p>
     <img src='https://github.com/Natalia977/Natalia977/blob/main/images/fondo%20escritorio1.PNG' </img>
 </p>
 
