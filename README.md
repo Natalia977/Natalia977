@@ -1,10 +1,13 @@
 ### Hi there, I'm Natalia 👩‍💻!
 
+<p align='left'>
+    <img src='' </img>
+</p>
 
 # FULL STACK DEVELOPER | LICENSED IN INFORMATION SYSTEMS
 
 
-## :star: Languages and Tools:
+## :star: Languages and Tools :hammer: :
 
 Front-end:
 <p>
