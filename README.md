@@ -39,8 +39,8 @@ Version Control System:
 
 
 ## :pushpin: My projects
-DOGGY FANS!
-
+## DOGGY FANS!
+It's my Individual Project for Henry's Lab
 <p>
   LANDING PAGE
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_landing.PNG"></a>
