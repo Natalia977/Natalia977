@@ -42,10 +42,15 @@ Version Control System:
 DOGGY FANS!
 
 <p>
+  LANDING PAGE
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_landing.PNG"></a>
+  HOME
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_allbreeds.PNG"></a>
+  SEARCH BY
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_search.PNG"></a>
+  CREATE A NEW BREED
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_create.PNG"></a>
+  ABOUT
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_about.PNG"></a>
 </p>
 
