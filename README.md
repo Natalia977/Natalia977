@@ -48,9 +48,9 @@ DOGGY FANS!
 
 ## :paperclip: How to reach me:
 <span >
-<a href="https://www.linkedin.com/in/wanda-trinidad-cirone/" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/linkedin-icon.png"> &nbsp;
+<a href="" ><img width="5%" src="https://github.com/Natalia977/Natalia977/blob/main/images/png-clipart-linkedin-linkedin.png"> &nbsp;
 
-<a href="mailto:wandacirone@gmail.com" ><img width="5%" src="https://github.com/WanCirone/wancirone/blob/main/logos/gmail-icon%20green.png">
+<a href="" ><img width="5%" src="https://github.com/Natalia977/Natalia977/blob/main/images/gmail-logo-4-1.png">
 
 </span>
 
