@@ -1,7 +1,7 @@
 ### Hi there, I'm Natalia 👩‍💻!
 
 <p align='left'>
-    <img src='https://github.com/Natalia977/Natalia977/blob/main/images/fondo%20escritorio1.PNG' </img>
+    <img src='https://github.com/Natalia977/Natalia977/blob/main/images/fondo%20escritorio2.PNG' </img>
 </p>
 
 # FULL STACK DEVELOPER | LICENSED IN INFORMATION SYSTEMS
