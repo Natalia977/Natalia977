@@ -54,6 +54,52 @@ It's my Individual Project for Henry's Lab
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_about.PNG"></a>
 </p>
 
+## Mint App - Wallet :💚
+It's my Final Project for Henry's Lab
+<p>
+This project was made by a team of 7 people _(check contributors)_, which was our Final Project for Henry. The purpose of the project, was to create a mobile app, which offers the possibility of to make deposits, to pay services, to make transfers and in a future to buy and operate with crypto.
+</p>
+
+### Applied technologies :hammer:
+
+- **Front End:**
+
+  - React Native
+  - Expo
+  - Redux
+  - CSS
+
+- **Back End:**
+  - Node.js
+  - Express
+  - PostgreQL
+  - Sequelize
+
+<p>
+  LANDING PAGE
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/landingPage.jpg"></a>
+  HOME
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/homePage.jpg"></a>
+  PROFILE PAGE
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/profilePage.jpg"></a>
+  REGISTER PAGE
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/registerPage.jpg"></a>
+  REGISTER EXTENDED
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/registerExtended.jpg"></a>
+  SCAN QR 
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/scanQRPage.jpg"></a>
+  SERVICE PAYMENT
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/servicePaymentPage.jpg"></a>
+  DRAWER MENU
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/drawerPage.jpg"></a>
+  ABOUT US
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/aboutUsPage.jpg"></a>
+  FAQ 
+  <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/faqPage.jpg"></a>
+
+</p>
+
+
 ## :paperclip: How to reach me:
 <span >
 <a href="https://www.linkedin.com/in/natalia-suarez-full-stack-developer/" ><img width="5%" src="https://github.com/Natalia977/Natalia977/blob/main/images/png-clipart-linkedin-linkedin.png"> &nbsp;
@@ -61,6 +107,9 @@ It's my Individual Project for Henry's Lab
 <a href="mailto:natu977@gmail.com" ><img width="5%" src="https://github.com/Natalia977/Natalia977/blob/main/images/gmail-logo-4-1.png">
 
 </span>
+
+
+
 
 
 
