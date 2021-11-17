@@ -42,19 +42,19 @@ Version Control System:
 ## DOGGY FANS!
 It's my Individual Project for Henry's Lab
 <p>
-  LANDING PAGE
+  <h3>LANDING PAGE</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_landing.PNG"></a>
-  HOME
+  <h3>HOME</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_allbreeds.PNG"></a>
-  SEARCH BY
+  <h3>SEARCH BY</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_search.PNG"></a>
-  CREATE A NEW BREED
+  <h3>CREATE A NEW BREED</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_create.PNG"></a>
-  ABOUT
+  <h3>ABOUT</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/doggyfans_about.PNG"></a>
 </p>
 
-## Mint App - Wallet :💚
+## MINT APP - WALLET :💚
 It's my Final Project for Henry's Lab
 <p>
 This project was made by a team of 7 people _(check contributors)_, which was our Final Project for Henry. The purpose of the project, was to create a mobile app, which offers the possibility of to make deposits, to pay services, to make transfers and in a future to buy and operate with crypto.
