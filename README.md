@@ -76,25 +76,25 @@ This project was made by a team of 7 people _(check contributors)_, which was ou
   - Sequelize
 
 <p>
-  <h1>LANDING PAGE</h1>
+  <h3>LANDING PAGE</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/landingPage.jpg"></a>
-  <h1>HOME</h1>
+  <h3>HOME</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/homePage.jpg"></a>
-  <h1>PROFILE PAGE</h1>
+  <h3>PROFILE PAGE</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/profilePage.jpg"></a>
-  <h1>REGISTER PAGE</h1>
+  <h3>REGISTER PAGE</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/registerPage.jpg"></a>
-  <h1>REGISTER EXTENDED</h1>
+  <h3>REGISTER EXTENDED</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/registerExtended.jpg"></a>
-  <h1>SCAN QR</h1> 
+  <h3>SCAN QR</h3> 
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/scanQRPage.jpg"></a>
-  <h1>SERVICE PAYMENT</h1>
+  <h3>SERVICE PAYMENT</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/servicePaymentPage.jpg"></a>
-  <h1>DRAWER MENU</h1>
+  <h3>DRAWER MENU</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/drawerPage.jpg"></a>
-  <h1>ABOUT US</h1>
+  <h3>ABOUT US</h3>
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/aboutUsPage.jpg"></a>
-  <h1>FAQ</h1> 
+  <h3>FAQ</h3> 
   <a><img src="https://github.com/Natalia977/Natalia977/blob/main/images/faqPage.jpg"></a>
 
 </p>
