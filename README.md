@@ -4,7 +4,7 @@
     <img src='https://github.com/Natalia977/Natalia977/blob/main/images/fondo%20de%20escritorio2.PNG' </img>
 </p>
 
-👩‍💻 I am a graduate in Systems and Full Stack Developer student. Thanks to the wide field of work that my profession offers me, it is that I can choose between the activities that I like the most: technology, in its various forms, learning new languages, new tools, the possibility of being creative. I have a great interest in continuing to learn about how to improve regarding my profession and myself. I appreciate teamwork, generosity, patience and a positive spirit, fundamental pillars when undertaking a new project.
+👩‍💻 I am a graduate in Systems and Full Stack Developer. Thanks to the wide field of work that my profession offers me, it is that I can choose between the activities that I like the most: technology, in its various forms, learning new languages, new tools, the possibility of being creative. I have a great interest in continuing to learn about how to improve regarding my profession and myself. I appreciate teamwork, generosity, patience and a positive spirit, fundamental pillars when undertaking a new project.
 I love languages, I study English and I want to continue learning others.
 I love to paint and draw, whenever I can I do it as a hobby.
 One of my dreams? Travel, get to know other countries and their cultures. 🙌
