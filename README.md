@@ -99,6 +99,27 @@ This project was made by a team of 7 people _(check contributors)_, which was ou
 
 </p>
 
+## About Us :busts_in_silhouette:
+
+We are a work team, formed by Henry's students, in which each one comes from different places, situations and experiences, which make this team multi-faceted, being this a great advantage, at the hour of 'create' and development.
+Many objectives unite us, between them, to acquire experience and knowledge regarding the profession and teamwork and being able to offer our service in the best way, as Full Stack Web Developers.
+
+:woman_technologist: - Suarez Natalia [GitHub](https://github.com/Natalia977) [LinkedIn](https://www.linkedin.com/in/natalia-suarez-full-stack-developer/)
+
+:woman_technologist: - Vargas Medina Eva Cristina [GitHub](https://github.com/evacvargas) [LinkedIn](https://www.linkedin.com/in/evargasm/)
+
+:man_technologist: - Carreño Victor [GitHub](https://github.com/ViJo0803) [LinkedIn](https://www.linkedin.com/in/victor-carreno-fullstack/)
+
+:man_technologist: - Chaves Agustin [GitHub](https://github.com/AguChaves92) [LinkedIn](https://www.linkedin.com/in/agustin-chaves-b5bb7216a/)
+
+:man_technologist: - Fuertes Luciano [GitHub](https://github.com/Luciano-Fuertes) [LinkedIn](https://www.linkedin.com/in/luciano-fuertes/)
+
+:man_technologist: - Massello Francisco [GitHub](https://github.com/franmassello) [LinkedIn](https://www.linkedin.com/in/francisco-massello/)
+
+:man_technologist: - Mazzetti Luciano [GitHub](https://github.com/luchomazze) [LinkedIn](https://www.linkedin.com/in/luchomazze/)
+
+
+
 
 ## :paperclip: How to reach me:
 <span >
