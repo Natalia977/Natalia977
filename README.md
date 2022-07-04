@@ -40,7 +40,7 @@ Version Control System:
 
 ## :pushpin: My Portfolio
 
-<a href="https://natalia-suarez.vercel.app/" ><img width="5%" src="https://github.com/Natalia977/Natalia977/blob/main/images/logoPortfolio.PNG">
+<a href="https://natalia-suarez.vercel.app/" ><img width="5%" src="https://github.com/Natalia977/Natalia977/blob/main/images/logoPortfolio.png">
 
 
 ## :pushpin: My projects
